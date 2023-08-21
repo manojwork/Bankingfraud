@@ -16,7 +16,7 @@ body{
 .pic{
     width: 98%;
     height: 60vh;
-    background-image:url('1688113290198.jpeg') ;
+    background-image:url('"./IMG-20230821-WA0000.jpg"') ;
     background-size:cover;
 
 }
@@ -71,14 +71,13 @@ body{
     width: 50%;
     height: 60vh;
     font-size: 16.9px;
-    text-align: justify;
-
+    te
 }
 
 .pic-content .image{
     width: 35%;
     height: 80%;
-    background-image: url('fraud-detection-prevention-banking-sector-medium.jpg');
+    background-image: url( './IMG-20230821-WA0001.jpg' );
     background-size: cover;
     border-radius: 20px;
 }
