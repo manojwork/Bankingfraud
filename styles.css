@@ -16,7 +16,7 @@ body{
 .pic{
     width: 98%;
     height: 60vh;
-    background-image:url('./IMG-20230821-WA0000.jpg'
+    background-image:url('./IMG-20230821-WA0001.jpg'
         ) ;
     background-size:cover;
 
@@ -78,7 +78,7 @@ body{
 .pic-content .image{
     width: 35%;
     height: 80%;
-    background-image: url( './IMG-20230821-WA0001.jpg' );
+    background-image: url( './IMG-20230821-WA0000.jpg' );
     background-size: cover;
     border-radius: 20px;
 }
@@ -127,5 +127,11 @@ footer{
     display: flex;
     align-items: center;
     justify-content:center ;
+} 
+@media only screen ( max-width:1240px;){
+ *{ 
+     background-color: white; 
+     color:white; 
+ }
 }
 
